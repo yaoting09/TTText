@@ -1,0 +1,5 @@
+{
+  "name": "MoodFlow - AI Fluid Art",
+  "description": "Generates mesmerizing, flowing abstract art based on the mood of your text input using Gemini AI.",
+  "requestFramePermissions": []
+}
